@@ -123,24 +123,24 @@ To run this project, you need:
 
 ## Directory Structure 
 ![image](https://github.com/user-attachments/assets/c1382ad1-e71f-4897-9c4b-32d8f27ace13)
-config.php
-Contains database connection settings.
-index.php
-Handles the display of tweets and the tweet creation form.
-user_profile.php and profile.php
-Displays user profile details including statistics and tweets.
-follow.php
-Manages follow and unfollow actions.
-like.php
-Handles liking tweets.
-login.php
-Handles user login.
-logout.php
-Handles user logout.
-register.php
-Handles user registration.
-error.php
-Displays an error message when something goes wrong.
+    config.php
+    -Contains database connection settings.
+    index.php
+    - Handles the display of tweets and the tweet creation form.
+    user_profile.php and profile.php
+    - Displays user profile details including statistics and tweets.
+    follow.php
+    - Manages follow and unfollow actions.
+    like.php
+    - Handles liking tweets.
+    login.php
+    - Handles user login.
+    logout.php
+    - Handles user logout.
+    register.php
+    - Handles user registration.
+    error.php
+    - Displays an error message when something goes wrong.
 
 ## Troubleshooting
 Common Issues
