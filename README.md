@@ -24,7 +24,7 @@ To run this project, you need:
 1. Clone the Repository  
     First, clone the project repository from GitHub:  
     ```bash
-    git clone https://github.com/Social_media_clone_TWEET.git
+    git clone https:[//github.com/Social_media_clone_TWEET.git](https://github.com/MounikaRangisetty/Social_media_clone_TWEET.git)
     ```
 2. Configure the Database
     a. Create the Database
