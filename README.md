@@ -70,52 +70,52 @@ To run this project, you need:
 
 ## Screenshots and Explanations
 1. Login Screen  
-    Description: The login page where users enter their credentials to access their account.![image](https://github.com/user-attachments/assets/9381233e-1bbc-42b1-92d1-8ad167de76a6)
-
+    Description: The login page where users enter their credentials to access their account.
+     ![image](https://github.com/user-attachments/assets/9381233e-1bbc-42b1-92d1-8ad167de76a6)
     - Username Field: Input field where users enter their username.
     - Password Field: Input field where users enter their password.
     - Login Button: Submits the login form.
 
 2. Registration Screen  
-    Description: Allows new users to create an account.![image](https://github.com/user-attachments/assets/edb6c467-3863-4240-977a-eb6e39e9a0ad)
-
+    Description: Allows new users to create an account. 
+    ![image](https://github.com/user-attachments/assets/edb6c467-3863-4240-977a-eb6e39e9a0ad)
     - Username Field: Input field for the new user's username.
     - Password Field: Input field for the new user's password.
     - Register Button: Submits the registration form.
 
 3. User Profile  
-    Description: Displays user profile information including statistics and tweets. ![image](https://github.com/user-attachments/assets/4bea3c1d-d20d-43c6-a260-648fc00a565c)
-
+    Description: Displays user profile information including statistics and tweets. 
+    ![image](https://github.com/user-attachments/assets/4bea3c1d-d20d-43c6-a260-648fc00a565c)
     - Profile Stats: Shows the number of followers, following, and posts.
     - Follow/Unfollow Button: Allows users to follow/unfollow the profile owner.
     - Tweets Section: Displays the user's tweets with options to like.
 
 4. Create Tweet  
-    Description: Form for creating a new tweet. ![image](https://github.com/user-attachments/assets/ffe083b5-dfb5-44cf-aec4-fb76e9d3a391)
-
+    Description: Form for creating a new tweet. 
+    ![image](https://github.com/user-attachments/assets/ffe083b5-dfb5-44cf-aec4-fb76e9d3a391)
     - Tweet Content: Textarea for entering the tweet content.
     - Image Upload: Option to upload an image with the tweet.
     - Tweet Button: Submits the tweet.
 
 5. Tweets Feed  
-    Description: Displays tweets from users the current user follows. ![image](https://github.com/user-attachments/assets/88da0eec-a94b-439e-a9c8-51e80fd0fafb)
-
+    Description: Displays tweets from users the current user follows. 
+    ![image](https://github.com/user-attachments/assets/88da0eec-a94b-439e-a9c8-51e80fd0fafb)
     - Tweet Content: Shows the content of each tweet.
     - Like Button: Allows users to like a tweet.
 
 6. Follow/Unfollow List  
-    Description: Shows suggested users that the current user might want to follow.![image](https://github.com/user-attachments/assets/072779b7-f062-461f-aa6c-6e3ba8e37f0f)
-
+    Description: Shows suggested users that the current user might want to follow. 
+    ![image](https://github.com/user-attachments/assets/072779b7-f062-461f-aa6c-6e3ba8e37f0f)
     - Username: Displays suggested usernames.
     - View Button: Links to the profile page of the suggested user.
 
 7. Error Handling  
-    Description: Displays an error message when something goes wrong. ![image](https://github.com/user-attachments/assets/05e1fa5f-d981-4439-afa6-b9ed5116b2da)
-
+    Description: Displays an error message when something goes wrong. 
+    ![image](https://github.com/user-attachments/assets/05e1fa5f-d981-4439-afa6-b9ed5116b2da)
     - Back to home: Button to navigate to the home page when something goes wrong.
 
-## Directory Structure ![image](https://github.com/user-attachments/assets/c1382ad1-e71f-4897-9c4b-32d8f27ace13)
-
+## Directory Structure 
+![image](https://github.com/user-attachments/assets/c1382ad1-e71f-4897-9c4b-32d8f27ace13)
 config.php
 Contains database connection settings.
 index.php
